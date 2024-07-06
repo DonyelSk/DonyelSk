@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 ---------------------
 
-I am a Software Developer who love solve problem
+I am a Full Stack Developer who love solve problem
 
 * 🌍  I'm based in Michigan
 * ✉️  You can contact me at [Donyellsoke@gmail.com](mailto:Donyellsoke@gmail.com)
